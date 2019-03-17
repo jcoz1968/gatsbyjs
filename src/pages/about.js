@@ -3,10 +3,10 @@ import { Link } from "gatsby"
 
 export default () => (
   <div>
-    <h1>This is the index page</h1>
+    <h1>This is the about page</h1>
     <div>
       <Link to="/">Home</Link> | <Link to="/about">About me</Link>
-    </div>
+    </div>    
     <p>
       Lorem ipsum dolor sit amet.
     </p>
